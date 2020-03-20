@@ -12,10 +12,10 @@ This repro contain all essential tools and links for web development.
 - [ ] Javascript
 
 ### Table of Contents
-**[Markdown](#Markdown)**<br>
-**[Html](#Html)**<br>
-**[Css](#Css)**<br>
-**[Javascript](#Javascript)**<br>
+1. **[Markdown](#Markdown)**<br>
+1. **[Html](#Html)**<br>
+1. **[Css](#Css)**<br>
+1. **[Javascript](#Javascript)**<br>
 
 
 ## Markdown 
